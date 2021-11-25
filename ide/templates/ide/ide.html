@@ -1,0 +1,21 @@
+{% extends 'assignment_base.html' %}
+{% load static %}
+{% load widget_tweaks %}
+{% load crispy_forms_tags %}
+{% block title %} Compiler {% endblock title %}
+
+
+{% block content %}
+<nav class="navbar navbar-light bg-light">
+    <div class="navbar-brand">
+        <a href="{% url 'classroom:home' %}"><i class="fas fa-times"></i></a>
+        <div class="pl-3 float-right"> <strong>Python-3 Compiler</strong></div>
+    </div>
+
+</nav>
+
+<div class="container-fluid">
+    <iframe src="https://trinket.io/embed/python/9581d1d2fc" width="100%" height="650" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+<!-- /.container-fluid -->
+{% endblock %}
