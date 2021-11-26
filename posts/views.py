@@ -16,7 +16,7 @@ def create_post(request, pk):
             topic = classroom.topic_set.first()
             title = form.cleaned_data.get('title')
             description = form.cleaned_data.get('description')
-            files = request.FILES.getlist('file_field').required = False
+            files = request.FILES.getlist('file_field')
             post = Post.objects.create(title=title,description=description,created_by=request.user, topic = topic)
             for f in files:
                 Resource.objects.create(post = post,files=f)
