@@ -1,7 +1,7 @@
 # Kaksha
 ## Making virtual learning and teaching easy!
 
-<img src="Docs/screenshots/logo.png"/>
+<img src="/Docs/screenshots/logo.png"/>
 
 ## Features & Interfaces 
 - Landing Page 
