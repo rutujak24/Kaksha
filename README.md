@@ -1,7 +1,7 @@
 # Kaksha: Project for Microsoft Engage 2021
 ### Making virtual learning and teaching easy!
 
-<img src="Docs/Screenshots/logo.png"/ width="200">
+<img src="Docs/Screenshots/logo.png" width="200"/>
 
 ## Features & Interfaces 
 - Landing Page 
