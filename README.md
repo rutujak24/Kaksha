@@ -7,6 +7,7 @@
 
 * Landing Page 
 <img src="Docs/Screenshots/landing.png" width="900"/>
+
 * User registration & Login
 <img src="Docs/Screenshots/login.png" width="900"/>
 - Custom dashboard
