@@ -14,8 +14,8 @@
 <img src="Docs/Screenshots/create.png" width="900"/>
 - Join Classroom
 <img src="Docs/Screenshots/join.png" width="900"/>
-- Add Posts  & Comments
-<img src="Docs/Screenshots/posts.png" width="900"/>
+- Add Posts & Comments
+<img src="Docs/Screenshots/post.png" width="900"/>
 - Update User Profile
 <img src="Docs/Screenshots/update_profile.png" width="900"/>
 - Create Assignments 
@@ -34,10 +34,11 @@
 <img src="Docs/Screenshots/course.png" width="900"/>
 - NewsLetter Subscription & Contact Us Form
 <img src="Docs/Screenshots/newsletter.png" width="900"/>
-- Forgot password 
-<img src="Docs/Screenshots/forgot_password.png" width="900"/>
 - Python Intergrated Development Environment (IDE)
 <img src="Docs/Screenshots/ide.png" width="900"/>
+- Forgot password 
+<img src="Docs/Screenshots/forgot_password.png" width="900"/>
+
 
 ## Installation
 
