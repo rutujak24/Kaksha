@@ -4,6 +4,7 @@
 <img src="Docs/Screenshots/logo.png" width="500" style="aligin:center;"/>
 
 ## Features & Interfaces 
+
 - Landing Page 
 <img src="Docs/Screenshots/landing.png" width="900"/>
 - User registration & Login
