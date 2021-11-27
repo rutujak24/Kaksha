@@ -6,9 +6,9 @@
 ## Links
 * Website: http://apnikaksha.pythonanywhere.com/
 * Video Demo: 
-* Supporting Documents: 
+* Supporting Documents: [Additional Documents and Materials](https://github.com/rutujak24/Kaksha/tree/master/Docs/Supporting%20Documents)
 
-## Features & Interfaces 
+## Functionalities & Interfaces 
 
 * Landing Page 
 <img src="Docs/Screenshots/landing.png" width="900"/>
