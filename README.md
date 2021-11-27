@@ -7,37 +7,37 @@
 - Landing Page 
 <img src="Docs/Screenshots/landing.png" width="900"/>
 - User registration & Login
-<img src="Docs/screenshots/login.png"/>
+<img src="Docs/Screenshots/login.png" width="900"/>
 - Custom dashboard
-<img src="Docs/screenshots/dashboard.png"/>
+<img src="Docs/Screenshots/dashboard.png"/>
 - Create Classroom
-<img src="Docs/screenshots/create.png"/>
+<img src="Docs/Screenshots/create.png" width="900"/>
 - Join Classroom
-<img src="Docs/screenshots/join.png"/>
+<img src="Docs/Screenshots/join.png" width="900"/>
 - Add Posts  & Comments
-<img src="Docs/screenshots/posts.png"/>
+<img src="Docs/Screenshots/posts.png" width="900"/>
 - Update User Profile
-<img src="Docs/screenshots/update_profile.png"/>
+<img src="Docs/Screenshots/update_profile.png" width="900"/>
 - Create Assignments 
-<img src="Docs/screenshots/create_assignment.png"/>
+<img src="Docs/Screenshots/create_assignment.png" width="900"/>
 - Submit Assignments
-<img src="Docs/screenshots/submit_assignment.png"/>
+<img src="Docs/Screenshots/submit_assignment.png" width="900"/>
 - Review & Grade Assignments 
-<img src="Docs/screenshots/grade_assignment.png"/>
+<img src="Docs/Screenshots/grade_assignment.png" width="900"/>
 - Books Collection
-<img src="Docs/screenshots/books.png"/>
+<img src="Docs/Screenshots/books.png" width="900"/>
 - WhiteBoard 
-<img src="Docs/screenshots/whiteboard.png"/>
+<img src="Docs/Screenshots/whiteboard.png"width="900"/>
 - Colaborative Whiteboard
-<img src="Docs/screenshots/cboard.png"/>
+<img src="Docs/Screenshots/cboard.png" width="900"/>
 - Courses 
-<img src="Docs/screenshots/course.png"/>
+<img src="Docs/Screenshots/course.png" width="900"/>
 - NewsLetter Subscription & Contact Us Form
-<img src="Docs/screenshots/newsletter.png"/>
+<img src="Docs/Screenshots/newsletter.png" width="900"/>
 - Forgot password 
-<img src="Docs/screenshots/forgot_password.png"/>
+<img src="Docs/Screenshots/forgot_password.png" width="900"/>
 - Python Intergrated Development Environment (IDE)
-<img src="Docs/screenshots/ide.png"/>
+<img src="Docs/Screenshots/ide.png" width="900"/>
 
 ## Installation
 
