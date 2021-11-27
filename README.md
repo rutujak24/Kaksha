@@ -12,7 +12,7 @@
 <img src="Docs/Screenshots/login.png" width="900"/>
 
 - Custom dashboard
-<img src="Docs/Screenshots/dashboard.png"/>
+<img src="Docs/Screenshots/dashboard.png" width="900"/>
 
 - Create Classroom
 <img src="Docs/Screenshots/create.png" width="900"/>
