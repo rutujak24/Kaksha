@@ -4,7 +4,7 @@
 <img src="Docs/Screenshots/logo.png" width="500" style="aligin:center;"/>
 
 ## Links
-* Website: http://apnikaksha.pythonanywhere.com/
+* Website: http://apnikaksha.pythonanywhere.com
 * Video Demo: https://vimeo.com/650723713
 * Supporting Documents: [Additional Documents and Materials](https://github.com/rutujak24/Kaksha/tree/master/Docs/Supporting%20Documents)
 
