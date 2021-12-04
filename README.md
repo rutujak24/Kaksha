@@ -44,7 +44,7 @@
 <img src="Docs/Screenshots/books.png" width="900"/>
 
 - WhiteBoard 
-<img src="Docs/Screenshots/whiteboard.png"width="900"/>
+<img src="Docs/Screenshots/whiteboard.png" width="900"/>
 
 - Colaborative Whiteboard
 <img src="Docs/Screenshots/cboard.png" width="900"/>
